@@ -5,7 +5,11 @@ This template includes:
 - Tailwindcss (postcss + autoprefixer)
 - Framer Motion
 - CVA
-- cn Helper Function
+- `cn` Helper Function
+- Firebase
+- DBOX Auth Section
+- shadcn Button
+- radix forms and slot
 - Poppins font
 
 This template provides a minimal setup to get React working in Vite with HMR.
